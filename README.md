@@ -13,4 +13,5 @@ Montando um sistema simples de ERP, com ( Atendimento ao cliente, Financeiro, Fi
 Este sistema é voltado para "repasse de conteúdo" para um projeto de alunos, de uma escola de nível médio integrado ao técnico de Análise e Desenvolvimento de Sistemas.
 Ao fim, os mesmos devem aprender a programar seus próprios sistemas, além de melhorar este projeto e criar projetos solo.
 
-A todos os desenvolvedores que quiserem contribuir com 
+A todos os desenvolvedores que quiserem contribuir com este projeto, espero que entendam que este projeto esta sendo construído apenas para apresentação em sala de aula,
+porém caso queiram modificar, ficarei feliz por estarem usando minha base de código!
