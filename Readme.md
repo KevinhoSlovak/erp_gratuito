@@ -20,5 +20,5 @@ porém caso queiram modificar, ficarei feliz por estarem usando minha base de c�
 
 # Modificações
 
-Data: 02/09/2025
-Descrição: Subi os nomes de arquivos e um pequeno arquivo python, chamado erp, ele terá a tela de registro/login.
+Data: 06/09/2025
+Descrição: Mudança total de Python para C#.
