@@ -21,4 +21,8 @@ porém caso queiram modificar, ficarei feliz por estarem usando minha base de c�
 # Modificações
 
 Data: 06/09/2025
-Descrição: Mudança total de Python para C#.
+Descrição: Mudança de desenvolvimento para mais de uma linguagem!
+
+Data: 07/09/2025
+Descrição: Subindo na pasta Python, o arquivo com tela de login e registro simples!
+
